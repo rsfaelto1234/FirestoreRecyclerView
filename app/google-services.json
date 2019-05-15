@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687841337523",
+    "firebase_url": "https://firestore-fb27b.firebaseio.com",
+    "project_id": "firestore-fb27b",
+    "storage_bucket": "firestore-fb27b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687841337523:android:57f9838b2de5f2cc",
+        "android_client_info": {
+          "package_name": "com.example.firestorecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687841337523-l4g4b1hi07dlaj6skmpvngdgbhnp4pdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZWxR7n13iEwV0k1z6dTUY46HJnWb83s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687841337523-l4g4b1hi07dlaj6skmpvngdgbhnp4pdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
